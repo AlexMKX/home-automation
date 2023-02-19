@@ -11,4 +11,5 @@ broadlink.setup('your-ssid', 'your-password',4)
 ```
 
 After setup, the 3-4 long flashes occurs, indicating that remote is connecting your wifi. When LED stops flashing, the remote is connected
-Please note, that remote must be unlocked (refer python-broadlink manual, or HomeAssistant will unlock it for you)
+
+Please note, that remote must be unlocked : refer python-broadlink manual. HomeAssistant will unlock it for you.
