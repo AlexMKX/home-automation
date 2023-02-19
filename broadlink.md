@@ -15,4 +15,4 @@ After setup, the 3-4 long flashes occurs, indicating that remote is connecting y
 Please note, that remote must be unlocked : refer python-broadlink manual. HomeAssistant will unlock it for you.
 
 
-Broadlink MAC prefix: 34:EA and 24:DF
+Broadlink MAC prefix: 34:EA:34 and 24:DF:A7
