@@ -9,4 +9,5 @@
 import broadlink
 broadlink.setup('your-ssid', 'your-password',4)
 ```
-1. after this 3-4 long flashes occurs, indicating that remote is connecting your wifi. When LED stops flashing, the remote is connected
+
+After setup, the 3-4 long flashes occurs, indicating that remote is connecting your wifi. When LED stops flashing, the remote is connected
