@@ -1,7 +1,7 @@
 # ESPHome configuration for DT-R004 relay from Dingtian-Tech  
 ![DT-R004](https://user-images.githubusercontent.com/25821291/233686194-241baaf3-6a28-4ef3-8ac7-0f8dcd39579b.png)
 
-NB: ESP32-WROOM comes with vendorlock. Flashing EspHome will brick the chip. Either request "Development" board from vendor, or solid new chip ESP32-WROOM chip.
+***NB: ESP32-WROOM comes with Locked BootLoader. Flashing ESPHome will brick the chip. Either request "Development" board from vendor, or solid new ESP32-WROOM chip.***
 
 GPIO settings for the ESPHome
 
