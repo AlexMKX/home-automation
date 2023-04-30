@@ -11,22 +11,22 @@ binary_sensor:
    pin:
      number: GPIO39
      inverted: true 
-   name: ${devicename}_DI4
+   name: ${devicename}_DI2
  - platform: gpio
    pin:
      number: GPIO36
      inverted: true 
-   name: ${devicename}_DI3
+   name: ${devicename}_DI1
  - platform: gpio
    pin:
      number: GPIO35
      inverted: true 
-   name: ${devicename}_DI1
+   name: ${devicename}_DI4
  - platform: gpio
    pin:
      inverted: true    
      number: GPIO33
-   name: ${devicename}_DI2
+   name: ${devicename}_DI3
    
 switch:
   - platform: gpio
